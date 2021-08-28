@@ -2,6 +2,7 @@
 Guide de la *Djolof Tech* qui se consomme le plus sur internet (Food) et qui à un fort potentiel d'exportation.
 
 * [Open Source](#Open-Source)
+* [Communauté](#Communauté)
 * [Livre](#Livre]
 * [Blog](#Blog)
 * [Youtubeur](#Youtubeur)
@@ -12,6 +13,33 @@ Guide de la *Djolof Tech* qui se consomme le plus sur internet (Food) et qui à 
 
 ## Open Source
 - [Liste des 256 utilisateurs de GitHub les plus actifs au Sénégal](https://commits.top/senegal_private.html)
+- [Made In Senegal 🇸🇳 (Collection d'outils construits par des développeurs sénégalais)](https://github.com/Galsen-Dev-LAB/made-in-senegal)
+
+## Communauté
+- DakarLUG
+- Linux Sénégal
+- Flutter SENEGAL
+- WiMLDS (Women in Machine learning and Data Science (WiMLDS) Senegalese)
+- Kaolack Innov Tech
+- Dakar Ruby
+- Hyperledger Senegal
+- Tezos Sénégal ꜩ
+- Galsen Dev
+- Python Sénégal
+- BeOpenIT
+- Community_tele_net
+- VueJS Dakar
+- GDG Dakar
+- GalsenAI
+- Kaay Coder
+- Dakar Promise JS
+- DAARA_IT
+- DakaR R User Group
+- Dakar Android U.G
+- Jiggen Tech
+- Jjiguene Tech Hub
+- Dakar Bitcoin Developers
+
 
 ## Livre
 - **Aboubacar Sadikh Ndiay** - “[**Langage de la Transformation Digitale**](https://langagedigital.com)”
