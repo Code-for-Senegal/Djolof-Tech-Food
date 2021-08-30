@@ -10,7 +10,7 @@ Guide de la ***Djolof Tech*** qui se consomme le plus sur internet (Food) et qui
 * [**Podcast**](#Podcast)
 * [**Mooc**](#Mooc)
 * [**Social Média**](#Social-Média)
-* [**Press, Actualité**](#Press,-Actualité)
+* [**Press & Actualité**](#Press-&-Actualité)
 
 ## Open Source
 
@@ -74,7 +74,7 @@ Guide de la ***Djolof Tech*** qui se consomme le plus sur internet (Food) et qui
 
 ## Social Média
 
-## Press, Actualité
+## Press & Actualité
 
 * [**osiris.sn**](http://www.osiris.sn/)
 * [**socialnetlink.org**](https://www.socialnetlink.org/)
