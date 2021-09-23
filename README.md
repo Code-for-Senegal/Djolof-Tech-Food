@@ -67,9 +67,9 @@ Guide de la ***Djolof Tech*** qui se consomme le plus sur internet (Food) et qui
 
 ## Mooc
 
-* **Thierno Ibrahima DIOP** — [**Nettoyer vos données avec Python**](https://www.coursera.org/projects/nettoyer-donnees-python) (Coursera)
 * **Elias W. BA**
 * **Hassane Moustapha**
+* **Thierno Ibrahima DIOP** — [**Nettoyer vos données avec Python**](https://www.coursera.org/projects/nettoyer-donnees-python) (Coursera)
 * **Ousseynou DIOP**  — Plateforme de E-learning : [**Xarala**](https://xarala.co)
 
 ## Social Média
