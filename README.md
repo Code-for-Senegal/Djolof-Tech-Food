@@ -19,29 +19,29 @@ Guide de la ***Djolof Tech*** qui se consomme le plus sur internet (Food) et qui
 
 ## Communauté
 
-* [**BeOpen IT**](https://twitter.com/beopenit)
-* [**Community Telenet**](https://twitter.com/com_tele_net)
-* [**Daara IT**](https://twitter.com/daara_it)
-* [**DakaR R User Group**](https://twitter.com/dakarusers)
-* [**Dakar Android U.G**](https://twitter.com/dakarandroidug)
-* [**Dakar Bitcoin Developers**](https://twitter.com/dakarbitcoin)
-* [**Dakar Promise JS**](https://twitter.com/dakarpromisejs)
-* [**Dakar Ruby**](https://twitter.com/dakar_ruby)
-* [**DakarLUG**](https://twitter.com/dakarlug)
-* [**Flutter Senegal**](https://twitter.com/fluttersenegal)
-* [**GDG Dakar**](https://twitter.com/gdg_dakar)
-* [**Galsen AI**](https://twitter.com/galsenai)
-* [**Galsen Dev**](https://twitter.com/galsendev221)
-* [**Hyperledger Senegal**](https://twitter.com/hyperledgersen)
-* [**Jiggen Tech**](https://twitter.com/jiggentech)
-* [**Jjiguene Tech Hub**](https://twitter.com/jjiguenetech)
-* [**Kaay Coder**](https://twitter.com/kaaycoder)
-* [**Kaolack Innov Tech**](https://twitter.com/kaolacktech)
-* [**Linux Sénégal**](https://twitter.com/linuxsenegal)
-* [**Python Sénégal**](https://twitter.com/pythonsenegal)
-* [**Tezos Sénégal ꜩ**](https://twitter.com/tezossenegal)
-* [**VueJS Dakar**](https://twitter.com/dakarvue)
-* [**WiMLDS (Women in Machine learning and Data Science (WiMLDS) Senegalese)**](https://twitter.com/wimlds_dakar)
+* **BeOpen IT**
+* **Community Telenet**
+* [**Daara IT**](https://daarait.com/)
+* [**DakaR R User Group**](https://r-dakar.gitlab.io/)
+* **Dakar Android U.G**
+* **Dakar Bitcoin Developers**
+* **Dakar Promise JS**
+* **Dakar Ruby**
+* [**DakarLUG**](http://dakarlug.github.io/)
+* **Flutter Senegal**
+* [**GDG Dakar**](https://gdg.community.dev/gdg-dakar/)
+* [**Galsen AI**](https://galsen.ai/)
+* [**Galsen Dev**](https://galsendev.com/)
+* **Hyperledger Senegal**
+* **Jiggen Tech**
+* **Jjiguene Tech Hub**
+* **Kaay Coder**
+* **Kaolack Innov Tech**
+* [**Linux Sénégal**](https://linux-senegal.github.io/101-comment-ca-marche/)
+* [**Python Sénégal**](https://pythonsenegal.org/)
+* **Tezos Sénégal ꜩ**
+* **VueJS Dakar**
+* [**WiMLDS (Women in Machine learning and Data Science (WiMLDS) Senegalese)**](http://wimlds.org/about-the-dakar-team/)
 
 ## Livre
 
