@@ -10,7 +10,7 @@ Guide de la ***Djolof Tech*** qui se consomme le plus sur internet (Food) et qui
 * [**Podcast**](#Podcast)
 * [**Mooc**](#Mooc)
 * [**Social Média**](#Social-Média)
-* [**Press, Actualité**](#Press,-Actualité)
+* [**Presse et Actualité**](#Presse-et-Actualité)
 
 ## Open Source
 
@@ -19,29 +19,29 @@ Guide de la ***Djolof Tech*** qui se consomme le plus sur internet (Food) et qui
 
 ## Communauté
 
-* DakarLUG
-* Linux Sénégal
-* Flutter Senegal
-* WiMLDS (Women in Machine learning and Data Science (WiMLDS) Senegalese)
-* Kaolack Innov Tech
-* Dakar Ruby
-* Hyperledger Senegal
-* Tezos Sénégal ꜩ
-* Galsen Dev
-* Python Sénégal
-* BeOpen IT
-* Community Telenet
-* VueJS Dakar
-* GDG Dakar
-* Galsen AI
-* Kaay Coder
-* Dakar Promise JS
-* Daara IT
-* DakaR R User Group
-* Dakar Android U.G
-* Jiggen Tech
-* Jjiguene Tech Hub
-* Dakar Bitcoin Developers
+* **BeOpen IT**
+* **Community Telenet**
+* [**Daara IT**](https://daarait.com/)
+* [**DakaR R User Group**](https://r-dakar.gitlab.io/)
+* **Dakar Android U.G**
+* **Dakar Bitcoin Developers**
+* **Dakar Promise JS**
+* **Dakar Ruby**
+* [**DakarLUG**](http://dakarlug.github.io/)
+* **Flutter Senegal**
+* [**GDG Dakar**](https://gdg.community.dev/gdg-dakar/)
+* [**Galsen AI**](https://galsen.ai/)
+* [**Galsen Dev**](https://galsendev.com/)
+* **Hyperledger Senegal**
+* **Jiggen Tech**
+* **Jjiguene Tech Hub**
+* **Kaay Coder**
+* **Kaolack Innov Tech**
+* [**Linux Sénégal**](https://linux-senegal.github.io/101-comment-ca-marche/)
+* [**Python Sénégal**](https://pythonsenegal.org/)
+* **Tezos Sénégal ꜩ**
+* **VueJS Dakar**
+* [**WiMLDS (Women in Machine learning and Data Science (WiMLDS) Senegalese)**](http://wimlds.org/about-the-dakar-team/)
 
 ## Livre
 
@@ -67,14 +67,14 @@ Guide de la ***Djolof Tech*** qui se consomme le plus sur internet (Food) et qui
 
 ## Mooc
 
-* **Thierno Ibrahima DIOP** — [**Nettoyer vos données avec Python**](https://www.coursera.org/projects/nettoyer-donnees-python) (Coursera)
 * **Elias W. BA**
 * **Hassane Moustapha**
+* **Thierno Ibrahima DIOP** — [**Nettoyer vos données avec Python**](https://www.coursera.org/projects/nettoyer-donnees-python) (Coursera)
 * **Ousseynou DIOP**  — Plateforme de E-learning : [**Xarala**](https://xarala.co)
 
 ## Social Média
 
-## Press, Actualité
+## Presse et Actualité
 
 * [**osiris.sn**](http://www.osiris.sn/)
 * [**socialnetlink.org**](https://www.socialnetlink.org/)
