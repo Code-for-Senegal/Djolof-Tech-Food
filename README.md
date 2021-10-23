@@ -19,6 +19,7 @@ Guide de la ***Djolof Tech*** qui se consomme le plus sur internet (Food) et qui
 
 ## Communauté
 
+* [**A2DG (Africa Dotnet Developer Group)**](https://web.facebook.com/AfricaDotnetDevelopersGroup/)
 * **BeOpen IT**
 * **Community Telenet**
 * [**Daara IT**](https://daarait.com/)
