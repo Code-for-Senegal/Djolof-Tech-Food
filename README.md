@@ -56,6 +56,9 @@ Guide de la ***Djolof Tech*** qui se consomme le plus sur internet (Food) et qui
 * [**Ibrahima Ndaw**](https://www.ibrahima-ndaw.com/)
 * [**Kaherecode**](https://www.kaherecode.com/)
 * [**Senmarketing**](https://blog.senmarketing.net)
+* [**Xarala**](https://blog.xarala.co)
+* [**Ousseynou DIOP**](https://ousseynoudiop.com)
+* [**Barka Dia**](https://barkadia.net/blog/)
 
 ## Youtubeur
 
@@ -79,3 +82,4 @@ Guide de la ***Djolof Tech*** qui se consomme le plus sur internet (Food) et qui
 
 * [**osiris.sn**](http://www.osiris.sn/)
 * [**socialnetlink.org**](https://www.socialnetlink.org/)
+* [**https://galsencm.sn/actualite/**](https://galsencm.sn/actualite/)
