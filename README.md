@@ -57,7 +57,7 @@ Guide de la ***Djolof Tech*** qui se consomme le plus sur internet (Food) et qui
 * [**Senmarketing**](https://blog.senmarketing.net)
 * [**Xarala**](https://blog.xarala.co)
 * [**Ousseynou DIOP**](https://ousseynoudiop.com)
-* [**Barka Dia**](https://barkadia.net/)
+* [**Barka Dia**](https://barkadia.net/blog/)
 
 ## Youtubeur
 
