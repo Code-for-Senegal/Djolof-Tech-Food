@@ -60,6 +60,7 @@ Guide de la ***Djolof Tech*** qui se consomme le plus sur internet (Food) et qui
 * [**Ousseynou DIOP**](https://ousseynoudiop.com)
 * [**Barka Dia**](https://barkadia.net/blog/)
 * [**Orbitturner**](https://orbitturner.com/blog/)
+* [**Bakeli**](https://www.bakeli.tech/blog/)
 
 ## Youtubeur
 
