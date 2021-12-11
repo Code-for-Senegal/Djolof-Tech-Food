@@ -46,7 +46,7 @@ contact_form_action = "#" # contact form works with : https://formspree.io
 [[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
 name = "Github"
-link = "https://github.com/Code-for-Senegal"
+link = "https://github.com/Code-for-Senegal/Djolof-Tech-Food"
 
 
 ################################### Franch Language ######################
@@ -106,7 +106,7 @@ hasChildren = true
   [[Languages.fr.menu.main]]
   parent = "acteurs"
   name = "Communauté"
-  url = "Communautes"
+  url = "communautes"
   weight = 2
 
   [[Languages.fr.menu.main]]
