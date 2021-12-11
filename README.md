@@ -60,16 +60,17 @@ Guide de la ***Djolof Tech*** qui se consomme le plus sur internet (Food) et qui
 
 ## Blog
 
+* [**Daooda**](https://www.daooda.dev/blog)
+* [**Bakeli**](https://www.bakeli.tech/blog/)
 * [**Bloctechno**](https://bloctechno.wordpress.com)
+* [**Barka Dia**](https://barkadia.net/blog/)
 * [**Ibrahima Ciss**](https://iciss.dev/)
 * [**Ibrahima Ndaw**](https://www.ibrahima-ndaw.com/)
 * [**Kaherecode**](https://www.kaherecode.com/)
+* [**Ousseynou DIOP**](https://ousseynoudiop.com)
+* [**Orbitturner**](https://orbitturner.com/blog/)
 * [**Senmarketing**](https://blog.senmarketing.net)
 * [**Xarala**](https://blog.xarala.co)
-* [**Ousseynou DIOP**](https://ousseynoudiop.com)
-* [**Barka Dia**](https://barkadia.net/blog/)
-* [**Orbitturner**](https://orbitturner.com/blog/)
-* [**Bakeli**](https://www.bakeli.tech/blog/)
 
 ## Youtubeur
 
@@ -93,4 +94,4 @@ Guide de la ***Djolof Tech*** qui se consomme le plus sur internet (Food) et qui
 
 * [**osiris.sn**](http://www.osiris.sn/)
 * [**socialnetlink.org**](https://www.socialnetlink.org/)
-* [**https://galsencm.sn/actualite/**](https://galsencm.sn/actualite/)
+* [**galsencm.sn**](https://galsencm.sn/actualite/)
