@@ -2,7 +2,7 @@
 
 Guide de la ***Djolof Tech*** qui se consomme le plus sur internet (Food) et qui à un fort potentiel d'exportation.
 
-[**djoloftech.codeforsenegal.org**](https://djoloftech.codeforsenegal.org)
+[**djolof.tech**](https://djolof.tech)
 
 ## Catégories
 

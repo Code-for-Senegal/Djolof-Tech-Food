@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://djoloftech.codeforsenegal.org/"
+baseURL = "https://djolof.tech/"
 # theme
 theme = "dot-hugo"
 # site title
