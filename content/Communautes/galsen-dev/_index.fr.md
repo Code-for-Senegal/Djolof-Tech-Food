@@ -20,13 +20,16 @@ keywords: ["galsen","dev"]
 
 - [galsen.dev](https://www.galsen.dev)
 
-### Réseaux sociaux
+### Groupe de discution
 
 - [Discord](https://discord.com/invite/CKZcKqf)
-- [Twitter](https://twitter.com/galsendev221)
 - [Telegram](https://t.me/galsendev221)
-- [Instagram](https://www.instagram.com/galsendev221)
+
+### Réseaux sociaux
+
+- [Twitter](https://twitter.com/galsendev221)
 - [Facebook](https://www.facebook.com/galsendev221)
+- [Instagram](https://www.instagram.com/galsendev221)
 
 ### Code
 
