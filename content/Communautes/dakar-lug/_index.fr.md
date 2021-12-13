@@ -31,4 +31,4 @@ Un groupe de personnes qui vivent à Dakar, utilisent Linux ou d'autres logiciel
 
 ### Code
 
-- [githib](https://github.com/Dakarlug)
+- [GitHub](https://github.com/Dakarlug)
