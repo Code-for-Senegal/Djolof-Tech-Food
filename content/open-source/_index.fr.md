@@ -9,3 +9,7 @@ type : "docs"
 ### [Utilisateurs GitHub les plus actifs au Sénégal](/open-source/github)
 
 Liste des utilisateurs GitHub les plus actifs au Sénégal au cours de la dernière année.
+
+### [Made In Sénégal](/open-source/made-in-senegal)
+
+👨🏽‍💻 Collection d'outils construits par des développeurs sénégalais qui peuvent être utilisés par n'importe qui partout dans le monde.
