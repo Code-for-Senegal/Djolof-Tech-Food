@@ -8,7 +8,7 @@ title = "Djolof Tech"
 defaultContentLanguage = "fr"
 
 # google analytics
-googleAnalytics = "" # paste your analytics ID here. (Ex: UA-123-45)
+googleAnalytics = "G-SDQSRVZ7CN" # paste your analytics ID here. (Ex: UA-123-45)
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
@@ -39,7 +39,7 @@ light_color = "#f8f9fa"
 font_family = "lato" # Choose font family from : https://fonts.google.com/
 
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/f/xdobovae" # contact form works with : https://formspree.io
 
 
 ############################## social links ############################## 
@@ -223,7 +223,7 @@ placeholder = "Am laaj si ligééykat? Seetal fi"
 # call to action
 [Languages.wo.params.cta]
 enable = true
-title = "Giso sa laaj wala si ligééykat ?"
+title = "Giso sa laaj wala sa ligééykat ?"
 content = "Jëflante ak ñun"
 # call to action button
 [Languages.wo.params.cta.button]
