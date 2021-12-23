@@ -6,6 +6,14 @@ description: "Lorem ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit am
 type : "docs"
 ---
 
+### [Langage de la Transformation Digitale](/livres/langage-transformation-digitale)
+
+#### Aboubacar Sadikh Ndiay
+
+Ce livre inédit écrit par un Sénégalais contribue à l'inclusion numérique pour permettre a tous de comprendre le langage d'Internet, du mobile et de la technologie afin de l'utiliser correctement.
+
+---
+
 ### [Le Guide du Génie Logiciel](/livres/guide-genie-logiciel/)
 
 #### Moustapha DER
