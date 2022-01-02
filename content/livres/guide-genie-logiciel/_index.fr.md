@@ -4,6 +4,7 @@ date: 2021-12-17T11:02:05+06:00
 lastmod: 2021-12-17T10:42:26+06:00
 weight: 2
 draft: false
+image: "livre.jpeg"
 # search related keywords
 keywords: ["live","guide","génie","logiciel"]
 ---

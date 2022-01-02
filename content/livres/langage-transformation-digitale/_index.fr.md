@@ -4,6 +4,7 @@ date: 2021-12-23T11:02:05+06:00
 lastmod: 2021-12-23T10:42:26+06:00
 weight: 1
 draft: false
+image: "livre.png"
 # search related keywords
 keywords: ["langage","transformation","digitale"]
 ---
