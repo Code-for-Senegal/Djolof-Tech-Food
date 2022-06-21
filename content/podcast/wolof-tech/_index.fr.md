@@ -6,7 +6,7 @@ weight: 1
 draft: false
 image: "cover.jpeg"
 # search related keywords
-keywords: ["a2dg","dotnet","africa"]
+keywords: ["wolof","tech","podcast"]
 ---
 
 ![Wolof Tech](cover.jpeg "Wolof Tech")
