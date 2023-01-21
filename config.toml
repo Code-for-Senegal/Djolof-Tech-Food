@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://djolof.tech/"
+baseURL = "https://code-for-senegal.github.io/Djolof-Tech-Food/"
 # theme
 theme = "dot-hugo"
 # site title
